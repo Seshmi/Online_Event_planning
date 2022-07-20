@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+  font: 700 18px "Raleway", sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 250px;
+  width:100%;
+  position: relative;
+  bottom: 0;
+  background-color: black;
+}
+
+
+.div_footer {
+  width: 15vw;
+  min-height: 150px;
+  color: white;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.div_footer a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  display: block;
+  font-size: 20px;
+}
+
+.img_foo {
+  margin-left: 30px;
+}
+
+.icons_in_the_footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 30px;
+}
+
+.icons_in_the_footer img {
+  height: 60px;
+  margin-top: 20px;
+}
+
+.footer_logo {
+  height: 150px;
+  margin-left: 250px;
+  margin-top: 60px;
+}
+
+
+/**{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.container{
+	max-width: 1170px;
+	margin:auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: #24262b;
+    padding: 70px 0;
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 300;
+	color: #bbbbbb;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
+.par{
+	color: #bbbbbb;
+}*/
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+.body{
+
+	/*background:linear-gradient(90deg, rgb(53, 195, 238),rgb(243, 101, 101) );*/
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	/*font-size: 15px;
+	font-family: Calibri, Helvetica, sans-serif;*/
+	background-size: 100% 110%;
+}
+
+.container1{
+    margin-top:100px;
+    width: 45%;
+    height: 70%;
+    padding: 50px;
+      color : white;
+    background : linear-gradient(blue , green);
+    border-radius: 15px;
+
+}
+
+input[type=text], input[type=number],input[type=email], textarea {
+  width: 65%;
+  padding: 5px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+   border-radius: 8px;
+  
+
+  background: #f1f1f1;
+}
+input[type=text]:focus, input[type=number]:focus, input[type=email]:focus {
+background-color: rgba(159, 232, 241, 0.705);
+  outline: none;
+}
+
+.select{
+width: 65%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+.select:focus{
+  background-color: rgba(159, 232, 241, 0.705);
+  outline: none;
+}
+
+ div {
+            padding: 10px 0;
+         }
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+.registerbtn {
+  background-color: #241988;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 60%;
+  opacity: 0.9;
+}
+.registerbtn:hover {
+  opacity: 3;
+}
+
